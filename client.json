@@ -1,0 +1,1 @@
+{"client_id":"https://the-kronos-development.github.io/ergon-oauth-client/client.json","client_name":"ERGON","client_uri":"https://ergon.the-kronos.com","redirect_uris":["https://ergon.the-kronos.com/oauth/return.html"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
